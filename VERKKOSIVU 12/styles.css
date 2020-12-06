@@ -60,9 +60,17 @@ nav	{
 	background-color: #D3D3D3;
 }
 
+.hinnastonteksti	{
+	font-weight: bold;
+}
+
 .col-sm-3	{
 	text-align: left;
 	margin: 10px;
+}
+
+.col-sm-6	{
+	text-align: left;
 }
 	
 footer {
