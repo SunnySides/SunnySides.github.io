@@ -1,0 +1,108 @@
+body	{
+	background-color: #708090;
+}
+
+h1	{
+	text-align: center;
+	font-size: 50px;
+	
+}
+
+h2	{
+	text-align: center;
+}
+
+h4	{
+	margin: 10px;
+}
+
+.toineno	{
+	text-align: left;
+	margin: 5px;
+}
+
+.toineno2	{
+	text-align: left;
+	margin: 7px;
+	padding: 10px;
+}
+
+p {
+	text-align: center;
+	font-size: 18px;
+}
+
+.fa	{
+	text-align: center;
+}
+
+nav	{
+	text-align: center;
+}
+
+
+.p3 {
+	color: #B22222;
+	font-size: 20px;
+}
+
+.p4	{
+	text-align:left;
+	padding: 5px;
+}
+
+.munlinkki	{
+	padding: 5px;
+	background-color: #D3D3D3;
+}
+
+.row {
+	text-align: center;
+}
+
+.col {
+	background-color: #cccccc;
+	color: #000000;
+	padding: 5px;
+	margin: 3px;
+	text-align: center;
+	border: 2px solid #000000;
+}
+
+.col-sm-4	{
+	text-align: left;
+	margin: 5px;
+	background-color: #D3D3D3;
+}
+
+.hinnastonteksti	{
+	font-weight: bold;
+}
+
+.col-sm-3	{
+	text-align: left;
+	margin: 10px;
+	font-size: 18px;
+}
+
+.col-sm-6	{
+	text-align: left;
+}
+
+.jumbotron	{
+	background-color: #D3D3D3;
+}
+
+.carousel-inner	{
+	text-align: center;
+}
+
+form	{
+	background-color: #D3D3D3;
+	padding: 10px;
+}
+	
+footer {
+   bottom:0;
+   margin: 5px;
+}
